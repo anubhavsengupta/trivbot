@@ -1,0 +1,2 @@
+# trivbot
+a discord bot 
